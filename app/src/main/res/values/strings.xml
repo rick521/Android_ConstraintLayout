@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android_ConstraintLayout</string>
+    <string name="user">用户名</string>
+    <string name="passwd">密码</string>
 </resources>
